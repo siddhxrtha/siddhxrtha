@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Balamurugan Siddhartha</h1>
-<h3 align="center">A Passionate Data Scientist & Full Stack Web Developer from Singapore</h3>
+<h3 align="center">A Passionate Software Engineer & Full Stack Web Developer from Singapore</h3>
 
 ### 🚀 About Me  
 - 🎓 Currently learning **Applied AI & Analytics**  
